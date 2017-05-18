@@ -2,4 +2,4 @@
 
 Hello everyone.
 
-New to github. This is a test.
+New to github. This is a test. :)
